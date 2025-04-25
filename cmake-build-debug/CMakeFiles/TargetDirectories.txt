@@ -1,0 +1,3 @@
+/mnt/sdb1/programming/C++/project/GoBack/cmake-build-debug/CMakeFiles/GoBack.dir
+/mnt/sdb1/programming/C++/project/GoBack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/sdb1/programming/C++/project/GoBack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
